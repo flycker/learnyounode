@@ -9,6 +9,6 @@ my(process.argv[2], process.argv[3], function(err, list) {
 			console.log(elem);
 		});
 	} else {
-		console.log(err);
+		console.log('Erro: ' + err);
 	}
 });
