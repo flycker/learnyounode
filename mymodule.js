@@ -1,5 +1,5 @@
 // Comment
-// No, this is a great comment!
+// No, this is a great comment!!
 var fs = require('fs');
 var path = require('path');
 module.exports = function(dir, ext, callback) {
